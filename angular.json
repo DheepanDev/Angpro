@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angpro"
+    }
+  },
+  "defaultProject": "angpro",
+  "cli": {
+    "analytics": "5eeb6e2f-1032-4596-a952-bc564c4e691b"
+  }
 }
